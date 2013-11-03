@@ -1,0 +1,6 @@
+[submodule "iPhoneOS.KernelDevelopmentKit"]
+	path = iPhoneOS.KernelDevelopmentKit
+	url = git://github.com/winocm/iPhoneOS.KernelDevelopmentKit.git
+[submodule "KextMakefiles"]
+	path = KextMakefiles
+	url = git://github.com/winocm/KextMakefiles.git
